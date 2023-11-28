@@ -8,7 +8,7 @@
 set _Debug=0
 
 :: change to 0 to turn OFF Windows or Office activation processing via the script
-set ActWindows=1
+set ActWindows=0
 set ActOffice=1
 
 :: change to 0 to turn OFF auto conversion for Office C2R Retail to Volume
