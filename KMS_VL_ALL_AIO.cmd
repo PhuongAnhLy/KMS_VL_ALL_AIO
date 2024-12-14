@@ -15,7 +15,7 @@ set ActOffice=1
 set AutoR2V=1
 
 :: change to 0 to keep Office C2R vNext license (subscription or lifetime)
-set vNextOverride=1
+set vNextOverride=0
 
 :: change to 0 to revert Windows 10/11 KMS38 to normal KMS
 set SkipKMS38=1
@@ -30,7 +30,7 @@ set KMS_IP=172.16.0.2
 set uManual=0
 
 :: change to 1 to run AutoRenewal activation mode unattended
-set uAutoRenewal=0
+set uAutoRenewal=1
 
 :: change to 1 to suppress any output
 set Silent=0
